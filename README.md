@@ -27,3 +27,8 @@ Validação básica de informações. <br>
 Este projeto faz parte da minha jornada de aprendizado em Java, com foco na construção de uma base sólida em lógica de programação e organização de código.
 
 A ideia é evoluir o sistema gradualmente, implementando novas funcionalidades e aplicando conceitos mais avançados da linguagem.
+
+## Conexão com DB
+Até o momento adicionamos o banco de dados utilizando o JDBC com o MysQL e uma simples consulta para verificar se esta tudo funcionando conforme esperado. 
+
+Nesta etapa acabei organizando as pastas para uma organização mais elaborada e diferenciar oque é cada processo.
